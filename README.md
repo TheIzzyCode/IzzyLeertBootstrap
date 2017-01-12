@@ -11,3 +11,9 @@
 <li> Have a small rare game items business </li>
 <li> Travelled around North America </li>
 </ul>
+<h3> Here are some links to websites that i like </h3>
+<ol>
+<li><a href="http://myfigurecollection.net"target="_blank">A website for figure collectors</a>
+</li>
+<li><a href="http://collectorsedition.org"target="_blank"> A website for game collectors </a></li>
+<li><a href="http://zuiderstrandtheater.nl"target="_blank"> A website for dance admirers </a></li>
