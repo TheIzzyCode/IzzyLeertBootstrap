@@ -18,4 +18,5 @@
 <li><a href="http://collectorsedition.org"target="_blank"> A website for game collectors </a></li>
 <li><a href="http://zuiderstrandtheater.nl"target="_blank"> A website for dance admirers </a></li>
 <h4> Some pictures of Things i adore </h4>
-<Img src="http://www.mamm-mdf.ru/upload/iblock/eca/ecaa093592ac097f10948c4949e7ef9d.jpg" Alt="svetlana zakharova" width="150" Height="100">
+<Img src="http://www.mamm-mdf.ru/upload/iblock/eca/ecaa093592ac097f10948c4949e7ef9d.jpg" Alt="svetlana zakharova" width="250" Height="250">
+<img src="https://images-na.ssl-images-amazon.com/images/I/81ipXKw8rjL.jpg" Alt="The Shining" width="250" Height="250">
