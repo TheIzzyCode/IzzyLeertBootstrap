@@ -23,7 +23,6 @@
 <Img src="http://www.mamm-mdf.ru/upload/iblock/eca/ecaa093592ac097f10948c4949e7ef9d.jpg" Alt="svetlana zakharova" width="250" Height="250">
 <img src="https://images-na.ssl-images-amazon.com/images/I/81ipXKw8rjL.jpg" Alt="The Shining" width="250" Height="250">
 <h4> Lets add some music! </h4>
-<object data="https://www.youtube.com/embed/ZvBN86xTrqs" width="600" height="400">
-    <embed src="https://www.youtube.com/embed/ZvBN86xTrqs" width="600" height="400"> </embed>
-    Error: Embedded data could not be displayed.
+<object data="https://www.youtube.com/watch?v=ZvBN86xTrqs" width="400" height="300" type="text/html">
+   Alicia Keys = In Common kaskade Remix 
 </object>
